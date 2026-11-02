@@ -1,5 +1,5 @@
 ﻿# ComputerNetworks
-PYTHON CHAT APPLICATION - TWO-WAY GUI
+**PYTHON CHAT APPLICATION - TWO-WAY GUI**
 
 FILES
 - server.py: Run on Laptop 1. Server has a full chat interface.
